@@ -1,10 +1,5 @@
-# site settings
 baseURL = "https://canopee.org/enduitsachaud/"
 languageCode = "fr-fr"
 title = "Mazuera : spécialiste enduits a la chaux"
 publishDir = "docs"
 theme = "airspace"
-
-# Google Analytics tracking
-googleAnalytics = ""
-
